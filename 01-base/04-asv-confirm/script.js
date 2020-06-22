@@ -13,4 +13,14 @@
 
     // your code here
 
+    let age = prompt('what is your age?');
+    let gender = prompt('what is your gender?');
+    let town = prompt('in which town do you live?');
+
+
+    while (!confirm("Age: " + age + "\n" +
+        "Gender: " + gender + "\n" +
+        "Town: " + town + "\n" +
+        "Press ok to continue"));
+
 })();

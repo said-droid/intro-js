@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12521846-2965-4b70-8cf9-3d7315477397" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/01-base/02-var-prompt/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/02-var-prompt/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-base/03-prompt-if/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/03-prompt-if/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-base/04-asv-confirm/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/04-asv-confirm/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-maths/01-calculator-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/01-calculator-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-maths/02-calculator-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/02-calculator-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-maths/03-even-square/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/03-even-square/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-maths/04-sort-numbers/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/04-sort-numbers/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-maths/05-factorial/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/05-factorial/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-maths/06-fizzbuzz/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/06-fizzbuzz/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-colors/01-change-bcg-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-colors/01-change-bcg-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-colors/02-change-bcg-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-colors/02-change-bcg-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-colors/03-change-bcg-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-colors/03-change-bcg-three/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-dates/01-title-by-hour-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/01-title-by-hour-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-dates/02-title-by-hour-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/02-title-by-hour-two/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-dates/03-age-by-select/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/03-age-by-select/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-dates/04-locale-date/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/04-locale-date/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-dates/05-get-spooky-fridays/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/05-get-spooky-fridays/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/01-get-element/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/01-get-element/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dQYJJOVikl3V88uV8woT4NxhI2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Music" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12521846-2965-4b70-8cf9-3d7315477397" name="Default Changelist" comment="" />
+      <created>1592358710186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592358710186</updated>
+      <workItem from="1592358711850" duration="184000" />
+      <workItem from="1592468939614" duration="4870000" />
+      <workItem from="1592483733775" duration="17715000" />
+      <workItem from="1592517099913" duration="6604000" />
+      <workItem from="1592526108368" duration="623000" />
+      <workItem from="1592585781517" duration="1182000" />
+      <workItem from="1592597366687" duration="7000" />
+      <workItem from="1592597429433" duration="5000" />
+      <workItem from="1592608146819" duration="12000" />
+      <workItem from="1592608160732" duration="3947000" />
+      <workItem from="1592744436505" duration="1460000" />
+      <workItem from="1592781658808" duration="675000" />
+      <workItem from="1592811740138" duration="664000" />
+      <workItem from="1592812963543" duration="6771000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1592819414131">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1592819414131" />
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1592474195566">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="208" y="31" width="1022" height="737" key="SettingsEditor/72.27.1294.741@72.27.1294.741" timestamp="1592474195566" />
+    <state x="383" y="174" key="run.anything.popup" timestamp="1592774211804">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="383" y="174" key="run.anything.popup/72.27.1294.741@72.27.1294.741" timestamp="1592774211804" />
+    <state x="383" y="40" width="670" height="676" key="search.everywhere.popup" timestamp="1592507380227">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="383" y="40" width="670" height="676" key="search.everywhere.popup/72.27.1294.741@72.27.1294.741" timestamp="1592507380227" />
+  </component>
+</project>

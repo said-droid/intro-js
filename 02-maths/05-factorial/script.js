@@ -17,6 +17,21 @@
 
         // your code here
 
+        let num = parseFloat(document.getElementById('number').value);
+
+        function factorialize(num) {
+            if (num === 0 || num === 1)
+                return 1;
+
+            if (num<0) {
+                alert('enter positive integer');
+            }
+            for (var i = num - 1; i >= 1; i--) {
+                num *= i;
+            }
+            return num;
+        }
+        alert(factorialize(num));
     });
 
 })();

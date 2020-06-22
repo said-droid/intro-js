@@ -8,11 +8,36 @@
 
 // NOTE: don't focus on the existing code structure for now.
 // You will have time to focus on it later.
+function test(i) {
 
-function test() {
-    return true;
+    let a = parseFloat(document.getElementById('op-one').value);
+    let b = parseFloat(document.getElementById('op-two').value);
+
+    switch (i) {
+        case 0:
+            return (a + b);
+            break;
+        case 1:
+            return (a - b);
+            break;
+        case 2:
+            return (a * b);
+            break;
+        case 3:
+            return (a / b);
+            break;
+    }
 }
 
+
 (function() {
-    return true;
+    const operators = document.getElementsByClassName("operator");
+
+    for (let i = 0; i < operators.length; i++) {
+        operators[i].addEventListener('click', function () {
+            alert(test(i));
+            document.getElementById("op-one").value = '';
+            document.getElementById("op-two").value = '';
+        });
+    }
 })();

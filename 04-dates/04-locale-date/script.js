@@ -14,5 +14,12 @@
     // to change the content of a tag: document.getElementById("element-id").innerHTML = "new-value"
 
     // your code here
+    let date = new Date();
+    let day = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+    let month = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'November', 'December'];
 
+
+
+    document.getElementById("target").innerHTML = day[date.getDay()] + ' ' + date.getDate() + ' ' + month[date.getMonth()] + ' ' + date.getFullYear()+ ', '
+        + ('0'+ date.getHours()) + 'h' + ('0'+ date.getMinutes());
 })();
