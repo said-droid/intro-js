@@ -2,24 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12521846-2965-4b70-8cf9-3d7315477397" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/01-base/02-var-prompt/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/02-var-prompt/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-base/03-prompt-if/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/03-prompt-if/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-base/04-asv-confirm/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-base/04-asv-confirm/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/01-calculator-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/01-calculator-one/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/02-calculator-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/02-calculator-two/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/03-even-square/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/03-even-square/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/04-sort-numbers/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/04-sort-numbers/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/05-factorial/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/05-factorial/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-maths/06-fizzbuzz/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/02-maths/06-fizzbuzz/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-colors/01-change-bcg-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-colors/01-change-bcg-one/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-colors/02-change-bcg-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-colors/02-change-bcg-two/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-colors/03-change-bcg-three/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/03-colors/03-change-bcg-three/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-dates/01-title-by-hour-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/01-title-by-hour-one/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-dates/02-title-by-hour-two/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/02-title-by-hour-two/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-dates/03-age-by-select/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/03-age-by-select/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-dates/04-locale-date/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/04-locale-date/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-dates/05-get-spooky-fridays/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/04-dates/05-get-spooky-fridays/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-arrays/01-get-element/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/01-get-element/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/02-manipulate-array/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/02-manipulate-array/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-arrays/03-walk-one/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/05-arrays/03-walk-one/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-asynchronous/01-get-posts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-asynchronous/01-get-posts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-asynchronous/02-get-comments/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-asynchronous/02-get-comments/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-asynchronous/03-handling-errors/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-asynchronous/03-handling-errors/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-asynchronous/04-promise-get-posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/08-asynchronous/04-promise-get-posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-asynchronous/04-promise-get-posts/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-asynchronous/04-promise-get-posts/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-asynchronous/05-promise-get-comments/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/08-asynchronous/05-promise-get-comments/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +59,12 @@
       <workItem from="1592781658808" duration="675000" />
       <workItem from="1592811740138" duration="664000" />
       <workItem from="1592812963543" duration="6771000" />
+      <workItem from="1592829634532" duration="2207000" />
+      <workItem from="1592832590843" duration="631000" />
+      <workItem from="1592834416989" duration="2707000" />
+      <workItem from="1592847796124" duration="2019000" />
+      <workItem from="1592895602482" duration="14452000" />
+      <workItem from="1592935517512" duration="7398000" />
     </task>
     <servers />
   </component>

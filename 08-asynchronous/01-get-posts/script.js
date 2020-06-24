@@ -11,14 +11,20 @@
 
 (() => {
     // your code here
-    function callback(error, articles) {
-        console.log(articles);
-    }
+    /* function callback(error, articles) {
+         console.log(articles);
+     }*/
 
-    document.getElementById('run').addEventListener('click', function(){
-       window.lib.getPosts(function(error, articles){
-           console.log(articles);
-       })
+    document.getElementById('run').addEventListener('click', function () {
+        window.lib.getPosts(function (error, articles) {
+            if (error) {
+                console.error("error")
+            } else {
+                console.log(articles);
+            }
+
+        })
     })
 
-})();
+})
+();
